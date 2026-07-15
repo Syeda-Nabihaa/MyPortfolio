@@ -1,0 +1,46 @@
+{
+"Contact": {
+  "name": "Nabiha Farhan",
+  "email": "nabiha.farhan1971@gmail.com",
+  "role": "Frontend Developer",
+  "description": "I am a passionate software engineer with experience in web development."
+},
+"education": [
+     {
+      "degree": "Intermediate in Computer Science",
+      "insititute": "Khatoon-e-Pakistan College",
+      "duration": "2023",
+      "description":
+        "Pursued Intermediate in Computer Science, gaining knowledge in computing concepts, software fundamentals, and logical problem-solving."
+    },
+    {
+      "degree": "Diploma in Software Development",
+      "insititute": "Aptech IT insititute",
+      "duration": "2023 – 2026",
+      "description":
+        "Studied Programming Fundamentals, Data Structures & Algorithms, Web Development, Object-Oriented Programming, Software Engineering Principles, and Operating Systems."
+    }
+  ],
+  "socials":[
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/nabiha-farhan-11870435b/",
+      "link": "https://www.linkedin.com/in/nabiha-farhan-11870435b/",
+      "icon": "linkedin"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/Syeda-Nabihaa",
+      "link": "https://github.com/Syeda-Nabihaa",
+      "icon": "github"
+
+    },
+    {
+      "name": "Gmail",
+      "url": "nabiha.farhan1971@gmail.com",
+    
+      "icon": "gmail"
+    }
+  ]
+  
+}

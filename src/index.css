@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  color: white;
+
+  /* Gradient + Grid */
+  background-image:
+    linear-gradient(to bottom right, #111827, #000000, #111827),
+    linear-gradient(rgba(255, 255, 255, 0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+
+  /* First layer = gradient, next two = grid */
+  background-size:
+    100% 100%,
+    60px 60px,
+    60px 60px;
+
+  background-position:
+    center,
+    center,
+    center;
+
+  background-repeat: no-repeat, repeat, repeat;
+
+  background-attachment: fixed;
+}
