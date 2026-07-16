@@ -1,0 +1,94 @@
+{
+  "mobileProjects": [
+    {
+      "id": 1,
+      "title": "Laptop Harbour ",
+      "description": "Laptop Harbour is a web application that allows users to browse and purchase laptops online. It provides a user-friendly interface, product details, and secure payment options.",
+      "github": "https://github.com",
+      "tech": ["Flutter", "Firebase"]
+    },
+    {
+      "id": 2,
+      "title": "Urban Harmony",
+      "description": "Urban Harmony is a modern furniture shopping application that enables users to discover premium furniture, search products by category, save favorites, manage their shopping cart, and securely place orders. Built with Flutter and Firebase, it offers a fast, responsive, and intuitive shopping experience.",
+      "github": "https://github.com/asra-faheem124/Urban_Harmony",
+      "tech": ["Flutter", "Firebase"]
+    },
+    {
+      "id": 3,
+      "title": "Sup App ",
+      "description": "Sup App is a community-driven social platform inspired by Reddit, enabling users to create and manage communities, publish posts, engage through comments and upvotes, and communicate through real-time chat. I was responsible for developing the complete frontend using Flutter, creating a responsive and intuitive user interface. The backend was built with NestJS, with SQL used for data management.",
+      "github": "https://github.com/Syeda-Nabihaa/StudentMobileApp/tree/nabihaa",
+      "tech": ["Flutter", "Nest.js", "mySQL"]
+    },
+    {
+      "id": 4,
+      "title": "Snaptik App ",
+      "description": "SnapTik is a social media application inspired by TikTok and Snapchat, allowing users to create and share short videos, upload stories, discover trending content, interact through likes and comments, follow other users, and communicate via real-time messaging. I developed the complete frontend using Flutter, focusing on delivering a smooth, responsive, and engaging user experience while integrating the application with the backend APIs.",
+      "github": "https://github.com/Syeda-Nabihaa/SnapTik-Frontend",
+      "tech": ["Flutter", "Nest.js", "dynamodb"]
+    },
+    {
+      "id": 5,
+      "title": "TrackNCheck ",
+      "description": "Track N Check is a mobile application that helps users make informed purchasing decisions by scanning product barcodes. The app identifies whether a product is Halal or Haram and indicates whether it is associated with boycott lists, providing instant and reliable information through a simple and user-friendly interface.",
+      "github": "https://github.com/Syeda-Nabihaa/TrackNcheck",
+      "tech": ["Flutter", "Firebase"]
+    }
+  ],
+
+  "reactProjects": [
+    {
+      "id": 1,
+      "title": "Multani Stationary ",
+      "description": "Designed and developed a stationery e-commerce website - Implemented responsive layouts and product catalog page and Enhanced user experience with clean navigation and modern UI design. ",
+      "github": "https://github.com/SAMEERKHAN1051/multanistationery",
+      "tech": ["React.js", "MySQL", "Firebase"]
+    },
+    {
+      "id": 2,
+      "title": "Hotel Management System",
+      "demo": "https://hotel-management-system-psi-one.vercel.app/",
+      "description": "A comprehensive MERN stack application for managing hotel operations, featuring room management, online booking, guest registration, reservation tracking, payment management, and an admin dashboard. The system offers a responsive interface and real-time data management for improved operational efficiency.",
+      "github": "https://github.com/maheeeeeeen/hotel-management-sysytem",
+      "tech": ["Mern"]
+    },
+    {
+      "id": 3,
+      "title": "Quiz App Admin Panel",
+      "description": "A responsive admin dashboard built for managing a quiz application. The panel allows administrators to create, update, and delete quizzes, questions, categories, and answers through an intuitive interface. It integrates with a REST API to perform CRUD operations and manage quiz data efficiently.",
+      "github": "https://github.com/Syeda-Nabihaa/react-quizApp",
+      "tech": ["React.js", "MySQL"]
+    }
+  ],
+
+  "realTimeProjects": [
+    {
+      "id": 1,
+      "title": "Multani Stationary ",
+      "description": "Designed and developed a stationery e-commerce website - Implemented responsive layouts and product catalog page and Enhanced user experience with clean navigation and modern UI design. ",
+      "github": "https://github.com/SAMEERKHAN1051/multanistationery",
+      "tech": ["React.js", "MySQL", "Firebase"],
+      "startDate": "Sep 2025",
+      "endDate": "Dec 2025"
+    },
+    {
+      "id": 2,
+      "title": "Sup App ",
+      "description": "Sup App is a community-driven social platform inspired by Reddit, enabling users to create and manage communities, publish posts, engage through comments and upvotes, and communicate through real-time chat. I was responsible for developing the complete frontend using Flutter, creating a responsive and intuitive user interface. The backend was built with NestJS, with SQL used for data management.",
+      "github": "https://github.com/Syeda-Nabihaa/StudentMobileApp/tree/nabihaa",
+      "tech": ["Flutter", "Nest.js", "MySQL"],
+      "startDate": "Dec 2025",
+      "endDate": "June 2026"
+    },
+    {
+      "id": 4,
+      "title": "Snaptik App ",
+      "description": "SnapTik is a social media application inspired by TikTok and Snapchat, allowing users to create and share short videos, upload stories, discover trending content, interact through likes and comments, follow other users, and communicate via real-time messaging. I developed the complete frontend using Flutter, focusing on delivering a smooth, responsive, and engaging user experience while integrating the application with the backend APIs.",
+      "github": "https://github.com/Syeda-Nabihaa/SnapTik-Frontend",
+      "tech": ["Flutter", "Nest.js", "dynamodb"],
+      "startDate": "March 2026",
+      "endDate": "Present"
+    }
+  ]
+}

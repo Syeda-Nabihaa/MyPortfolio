@@ -14,7 +14,7 @@ export default function Layout() {
       <footer className="bg-transparent relative z-10 mt-auto py-6 text-center text-sm text-white/40 backdrop-blur-sm border-t border-white/5 ">
         <div className="max-w-7xl mx-auto px-4">
           <p className="tracking-wider">
-            © {new Date().getFullYear()} Portfolio. All rights reserved.
+            © {new Date().getFullYear()} Design in React.js.
           </p>
         </div>
       </footer>
