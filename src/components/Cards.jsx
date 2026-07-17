@@ -55,6 +55,7 @@ export function ProjectCard({ project }) {
       p-7
       transition-all
       duration-300
+      
       hover:-translate-y-2
       hover:border-cyan-400/40
       hover:shadow-[0_0_40px_rgba(34,211,238,0.12)]
@@ -100,7 +101,7 @@ export function ProjectCard({ project }) {
       </div>
 
       {/* Buttons */}
-      <div className="flex gap-4 mt-8">
+      <div className="flex gap-4 mt-8 ">
         <a
           href={project.github}
           target="_blank"
