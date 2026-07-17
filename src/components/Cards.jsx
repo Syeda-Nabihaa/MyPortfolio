@@ -69,11 +69,10 @@ export function ProjectCard({ project }) {
 
       {/* Duration */}
       {project.startDate && project.endDate && (
-
-      <div className="flex items-center gap-2 text-slate-400 mt-3 text-sm">
-        <Calendar size={16} className="text-cyan-400" />
-        {project.startDate} — {project.endDate}
-      </div>
+        <div className="flex items-center gap-2 text-slate-400 mt-3 text-sm">
+          <Calendar size={16} className="text-cyan-400" />
+          {project.startDate} — {project.endDate}
+        </div>
       )}
 
       {/* Description */}
@@ -141,6 +140,21 @@ export function ProjectCard({ project }) {
             Live Demo
           </a>
         )}
+      </div>
+    </div>
+  );
+}
+
+export function ContactCard({icon,  title, detail }) {
+  return (
+    <div className="flex items-center gap-4">
+      <div className="p-3 rounded-xl bg-gray-800">
+        {icon}
+      </div>
+
+      <div>
+        <p className="text-sm text-gray-400">{title}</p>
+        <p className="font-medium">{detail}</p>
       </div>
     </div>
   );
