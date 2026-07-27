@@ -41,7 +41,7 @@ export default function ContactPage() {
   ];
 
   return (
-    <section className="min-h-screen bg-gray-950 text-white px-6 py-20">
+    <section className="min-h-screen bg-transparent text-white py-24 px-6">
       <div className="max-w-5xl mx-auto">
         {/* Heading */}
         <div className="text-center mb-14 bg-amber-">

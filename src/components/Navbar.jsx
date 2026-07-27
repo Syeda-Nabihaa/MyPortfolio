@@ -22,7 +22,7 @@ const Navbar = () => {
     { name: 'Home', to: '/', icon: <Home size={18} /> },
     { name: 'Projects', to: '/projects', icon: <FolderGit2 size={18} /> },
     { name: 'Contacts', to: '/contacts', icon: <Mail size={18} /> },
-    { name: 'My Experience', to: '/experience', icon: <Award size={18} /> },
+    { name: 'Education', to: '/education', icon: <Award size={18} /> },
   ];
 
   return (
