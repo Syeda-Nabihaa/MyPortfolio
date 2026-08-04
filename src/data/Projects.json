@@ -57,9 +57,18 @@
     {
       "id": 3,
       "title": "React Assembly Game",
-"description": "Built Assembly Game, a Hangman-style word guessing game where users guess hidden words and get instant win or loss results with an interactive and user-friendly interface.",      "github": "https://github.com/Syeda-Nabihaa/AssemblyGame",
+      "description": "Built Assembly Game, a Hangman-style word guessing game where users guess hidden words and get instant win or loss results with an interactive and user-friendly interface.",
+      "github": "https://github.com/Syeda-Nabihaa/AssemblyGame",
       "tech": ["React.js"],
-      "demo":"https://assemblygameee.netlify.app/"
+      "demo": "https://assemblygameee.netlify.app/"
+    },
+    {
+      "id": 4,
+      "title": "Music Player",
+      "description": "Built a music player application with a clean and intuitive interface, allowing users to browse, play",
+      "github": "https://github.com/Syeda-Nabihaa/musicPlayer.git",
+      "tech": ["React.js"],
+      "demo": "https://music-player-sandy-iota-11.vercel.app/"
     }
   ],
 
