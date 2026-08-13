@@ -10,6 +10,7 @@ import Navbar from "./components/Navbar";
 import Layout from "./pages/Layout/Layout";
 import ContactPage from "./pages/ContactPage";
 import Education from "./pages/Education";
+import CertificatePage from "./pages/CertificatePage";
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
           <Route path="/projects" element={<Projects />} />
           <Route path="/contacts" element={<ContactPage />} />
           <Route path="/education" element={<Education />} />
+          <Route path="/certificates" element={<CertificatePage />} />
         </Route>
       </Routes>
     </>

@@ -47,9 +47,11 @@ export default function ContactPage() {
         <div className="text-center mb-14 bg-amber-">
           <SectionHeading
             FirstLine="Let's Connect"
-            SecondLine="Feel free to reach out for collaborations, projects, or
-            opportunities."
+            SecondLine="Get in Touch"
           />
+          <p className="text-gray-400 mt-4 max-w-2xl mx-auto">
+            I'm always open to discussing new opportunities, collaborations, or just having a conversation about technology and innovation.
+          </p>
         </div>
 
         {/* Contact Card */}
