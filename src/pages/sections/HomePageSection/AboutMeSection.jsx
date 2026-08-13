@@ -52,7 +52,7 @@ export default function AboutMeSection() {
             </p>
 
             <a
-              href="/CV.pdf"
+              href="/Cv.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex mt-10 px-7 py-3 bg-cyan-500 hover:bg-cyan-400 transition rounded-xl font-semibold text-slate-900 items-center gap-2"
